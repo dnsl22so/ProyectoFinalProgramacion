@@ -41,3 +41,10 @@ Nombre del Package: package com.mycompany.proyectofinal;
 
 -Buscar tu clase archivo en tu PC. Si usas NetBeans:** Ve a `Documentos` > `NetBeansProjects` > `[NombreDeTuProyecto]` > `src` > `[NombreDeTuPaquete]` > `TuClase.java`
 
+-Suban su clase/archivo, clic en el botón Add file (arriba a la derecha de la lista de archivos) y selecciona Upload files.
+
+-Arrastra tu archivo `.java` desde tu computadora hacia la ventana del navegador.
+
+-En el cuadro de abajo (*Commit changes*), escribe qué clase subiste (ej. `Subir clase ProductoMenu.java`) o cualquier comentario relevante.
+
+-Haz clic en el botón verde **Commit changes**.
