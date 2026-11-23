@@ -34,6 +34,10 @@ Nombre del Package: package com.mycompany.proyectofinal;
 ||||INSTRUCCIONES||||
 
 -Envíame tu nombre de usuario de GitHub o el correo electrónico con el que te registraste para agregarte como colaborador. Por el grupo de whatsapp o privado.
+
 -Guarden su archivo/class en netbeans, presiona 'Ctrl+S'
+
 -Acuérdense de llamar los archivos/clases como los de arriba, 'ProductoMenu, Repartidor, etc'.
+
 -Buscar tu clase archivo en tu PC. Si usas NetBeans:** Ve a `Documentos` > `NetBeansProjects` > `[NombreDeTuProyecto]` > `src` > `[NombreDeTuPaquete]` > `TuClase.java`
+
