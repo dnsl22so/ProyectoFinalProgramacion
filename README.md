@@ -1,11 +1,18 @@
 ProyectoFinalProgramacion
 src/
+
 ├── Cliente.java             # Datos del cliente, zona (1-4) y tarifa de envío  (Ya hecho.)
+
 ├── ProductoMenu.java        # Catálogo de pizzas y bebidas, tamaño y precio (De abajo faltan)
+
 ├── Repartidor.java          # Motorizados y límite de 3 pedidos activos en ruta 
+
 ├── DetallePedido.java       # Línea de producto, cantidad e importe por ítem 
+
 ├── Pedido.java              # Orden completa, totales, estados y comanda
+
 ├── RestaurantePizzeria.java # Arreglos, matriz de entregas, reportes y menús
+
 └── Main.java                # Punto de arranque del programa con Scanner
 
 -----------------------
