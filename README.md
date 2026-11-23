@@ -3,7 +3,7 @@ src/
 
 ├── Cliente.java             # Datos del cliente, zona (1-4) y tarifa de envío  (Ya hecho.)
 
-├── ProductoMenu.java        # Catálogo de pizzas y bebidas, tamaño y precio (De abajo faltan)
+├── ProductoMenu.java        # Catálogo de pizzas y bebidas, tamaño y precio (De aqui a abajo faltan)
 
 ├── Repartidor.java          # Motorizados y límite de 3 pedidos activos en ruta 
 
