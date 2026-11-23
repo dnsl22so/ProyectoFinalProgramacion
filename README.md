@@ -30,3 +30,9 @@ Nombre del Package: package com.mycompany.proyectofinal;
 [ ] RestaurantePizzeria.java (Coordinador y lógica del turno): Administra arreglos del sistema, la matriz Repartidor × Zona de pedidos entregados y los menús de consola. Función: Coordina toma de pedidos, cocina, despacho, cobro, reportes con StringBuilder, validaciones con try-catch y flujos con 0. Volver.
 
 [ ] Main.java (Ejecución): Contiene el método main y el Scanner. Función: Instancia RestaurantePizzeria, inicia el menú principal y cierra el Scanner al salir.
+
+||||INSTRUCCIONES||||
+-Envíame tu nombre de usuario de GitHub o el correo electrónico con el que te registraste para agregarte como colaborador. Por el grupo de whatsapp o privado.
+-Guarden su archivo/class en netbeans, presiona 'Ctrl+S'
+-Acuérdense de llamar los archivos/clases como los de arriba, 'ProductoMenu, Repartidor, etc'.
+-Buscar tu clase archivo en tu PC. Si usas NetBeans:** Ve a `Documentos` > `NetBeansProjects` > `[NombreDeTuProyecto]` > `src` > `[NombreDeTuPaquete]` > `TuClase.java`
