@@ -1,5 +1,6 @@
 ProyectoFinalProgramacion
 src/
+Nombre del Package: package com.mycompany.proyectofinal;
 
 ├── Cliente.java             # Datos del cliente, zona (1-4) y tarifa de envío  (Ya hecho.)
 
